@@ -15,8 +15,13 @@ I’m passionate about building scalable web applications, solving problems usin
 - 📧 Email: **anujgupta12122004@gmail.com**
 
 </td>
-<td>
-<img src="https://tse2.mm.bing.net/th/id/OIP.SsRp__hIEnnGv6e5RcAODAHaEL?cb=ucfimgc2&w=1472&h=832&rs=1&pid=ImgDetMain&o=7&rm=3" width="300" />
+<td align="center">
+
+<!-- Multiple small clean tech images -->
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="110" />  
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="110" />  
+<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="110" />
+
 </td>
 </tr>
 </table>
