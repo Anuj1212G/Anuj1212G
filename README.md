@@ -15,12 +15,10 @@ I’m passionate about building scalable web applications, solving problems usin
 - 📧 Email: **anujgupta12122004@gmail.com**
 
 </td>
-<td align="center">
+<td align="center" valign="middle">
 
-<!-- Multiple animated tech GIFs -->
-
-<img src="[https://i.gifer.com/origin/36/36c0b934072a8a7f3897e5b45fc551f5_w200.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="300" />  
-
+<!-- Single clean tech GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
 
 </td>
 </tr>
