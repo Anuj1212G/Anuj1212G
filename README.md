@@ -16,7 +16,7 @@ I’m passionate about building scalable web applications, solving problems usin
 
 </td>
 <td>
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*kI4GNkPzzp3wJgV0K1i7Pg.gif" width="300" />
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/full-stack-developer-illustration-download-in-svg-png-gif-file-formats--backend-front-end-web-design-pack-design-development-illustrations-3464968.png" width="300" />
 </td>
 </tr>
 </table>
