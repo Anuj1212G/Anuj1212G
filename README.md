@@ -17,10 +17,10 @@ I’m passionate about building scalable web applications, solving problems usin
 </td>
 <td align="center">
 
-<!-- Multiple small clean tech images -->
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="110" />  
-<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="110" />  
-<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="110" />
+<!-- Multiple animated tech GIFs -->
+<img src="https://i.gifer.com/7VE.gif" width="120" />  
+<img src="https://i.gifer.com/origin/36/36c0b934072a8a7f3897e5b45fc551f5_w200.gif" width="120" />  
+<img src="https://i.gifer.com/3HeO.gif" width="120" />
 
 </td>
 </tr>
