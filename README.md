@@ -18,9 +18,9 @@ I’m passionate about building scalable web applications, solving problems usin
 <td align="center">
 
 <!-- Multiple animated tech GIFs -->
-<img src="https://i.gifer.com/7VE.gif" width="120" />  
-<img src="https://i.gifer.com/origin/36/36c0b934072a8a7f3897e5b45fc551f5_w200.gif" width="120" />  
-<img src="https://i.gifer.com/3HeO.gif" width="120" />
+
+<img src="[https://i.gifer.com/origin/36/36c0b934072a8a7f3897e5b45fc551f5_w200.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="300" />  
+
 
 </td>
 </tr>
